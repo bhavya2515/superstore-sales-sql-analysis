@@ -18,14 +18,14 @@ The objective is to use SQL to understand sales performance, profitability, cust
 ```text
 superstore-sales-sql-analysis/
 │
-├── data/
-│   └── cleaned_superstore.csv
-│
 ├── sql/
 │   ├── 01_database_setup.sql
 │   ├── 02_data_cleaning.sql
 │   ├── 03_sales_analysis.sql
 │   └── 04_advanced_insights.sql
+│
+├── data/
+│   └── cleaned_superstore.csv
 │
 └── README.md
 ```
