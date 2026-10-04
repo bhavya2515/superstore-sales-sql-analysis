@@ -1,0 +1,11 @@
+Row_ID,Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Country,City,State,Postal_Code,Region,Product_ID,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+1,CA-2016-152156-1,2016-01-01,2016-01-03,Second Class,CG-125200,Customer_0,Consumer,United States,New York,New York,10001,East,FUR-BO-10001790,Furniture,Bookcases,Bush Somerset Collection Bookcase,200.5,2,0.1,20.0
+2,CA-2016-152156-2,2016-01-02,2016-01-04,Second Class,CG-125201,Customer_1,Consumer,United States,New York,New York,10001,East,FUR-BO-10001791,Furniture,Bookcases,Bush Somerset Collection Bookcase,150.0,1,0.0,15.0
+3,CA-2016-152156-3,2016-01-03,2016-01-05,Second Class,CG-125202,Customer_2,Consumer,United States,New York,New York,10001,East,FUR-BO-10001792,Furniture,Bookcases,Bush Somerset Collection Bookcase,300.0,3,0.2,30.0
+4,CA-2016-152156-4,2016-01-04,2016-01-06,Second Class,CG-125203,Customer_3,Consumer,United States,New York,New York,10001,East,FUR-BO-10001793,Furniture,Bookcases,Bush Somerset Collection Bookcase,120.0,1,0.0,12.0
+5,CA-2016-152156-5,2016-01-05,2016-01-07,Second Class,CG-125204,Customer_4,Consumer,United States,New York,New York,10001,East,FUR-BO-10001794,Furniture,Bookcases,Bush Somerset Collection Bookcase,500.0,5,0.15,50.0
+6,CA-2016-152156-6,2016-01-06,2016-01-08,Second Class,CG-125205,Customer_5,Consumer,United States,New York,New York,10001,East,FUR-BO-10001795,Furniture,Bookcases,Bush Somerset Collection Bookcase,220.0,2,0.05,22.0
+7,CA-2016-152156-7,2016-01-07,2016-01-09,Second Class,CG-125206,Customer_6,Consumer,United States,New York,New York,10001,East,FUR-BO-10001796,Furniture,Bookcases,Bush Somerset Collection Bookcase,330.0,3,0.1,33.0
+8,CA-2016-152156-8,2016-01-08,2016-01-10,Second Class,CG-125207,Customer_7,Consumer,United States,New York,New York,10001,East,FUR-BO-10001797,Furniture,Bookcases,Bush Somerset Collection Bookcase,410.0,4,0.2,41.0
+9,CA-2016-152156-9,2016-01-09,2016-01-11,Second Class,CG-125208,Customer_8,Consumer,United States,New York,New York,10001,East,FUR-BO-10001798,Furniture,Bookcases,Bush Somerset Collection Bookcase,90.0,1,0.0,9.0
+10,CA-2016-152156-10,2016-01-10,2016-01-12,Second Class,CG-125209,Customer_9,Consumer,United States,New York,New York,10001,East,FUR-BO-10001799,Furniture,Bookcases,Bush Somerset Collection Bookcase,275.0,2,0.1,27.5
